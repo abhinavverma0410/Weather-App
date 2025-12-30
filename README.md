@@ -38,6 +38,7 @@ A modern, responsive **Weather Forecast Web Application** built with **Dash (Pyt
 ├── .gitignore          # Specifies files and folders Git should ignore (e.g., .env)
 └── assets/
     └── style.css       # External CSS file for styling the Dash application
+    └── WeatherApp.png  # Output Screenshot
 ```
 
 ---
