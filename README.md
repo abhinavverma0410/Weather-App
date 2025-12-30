@@ -16,7 +16,7 @@ A modern, responsive **Weather Forecast Web Application** built with **Dash (Pyt
 ---
 
 ## 🖥️ Application UI Preview
-![Weather App](assets/WeatherApp.png)
+![Weather App UI](assets/WeatherApp.png)
 
 ---
 
